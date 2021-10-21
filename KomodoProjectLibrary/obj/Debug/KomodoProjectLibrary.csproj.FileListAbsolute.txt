@@ -1,0 +1,9 @@
+C:\Users\Tristan\source\repos\InsuranceKOMODO\KomodoInsuranceProject\KomodoProjectLibrary\obj\Debug\KomodoProjectLibrary.csproj.AssemblyReference.cache
+C:\Users\Tristan\source\repos\InsuranceKOMODO\KomodoInsuranceProject\KomodoProjectLibrary\obj\Debug\KomodoProjectLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Tristan\source\repos\InsuranceKOMODO\KomodoInsuranceProject\KomodoProjectLibrary\bin\Debug\KomodoProjectLibrary.dll
+C:\Users\Tristan\source\repos\InsuranceKOMODO\KomodoInsuranceProject\KomodoProjectLibrary\bin\Debug\KomodoProjectLibrary.pdb
+C:\Users\Tristan\source\repos\InsuranceKOMODO\KomodoInsuranceProject\KomodoProjectLibrary\bin\Debug\KomodoPOCO.dll
+C:\Users\Tristan\source\repos\InsuranceKOMODO\KomodoInsuranceProject\KomodoProjectLibrary\bin\Debug\KomodoPOCO.pdb
+C:\Users\Tristan\source\repos\InsuranceKOMODO\KomodoInsuranceProject\KomodoProjectLibrary\obj\Debug\KomodoProjectLibrary.csproj.CopyComplete
+C:\Users\Tristan\source\repos\InsuranceKOMODO\KomodoInsuranceProject\KomodoProjectLibrary\obj\Debug\KomodoProjectLibrary.dll
+C:\Users\Tristan\source\repos\InsuranceKOMODO\KomodoInsuranceProject\KomodoProjectLibrary\obj\Debug\KomodoProjectLibrary.pdb

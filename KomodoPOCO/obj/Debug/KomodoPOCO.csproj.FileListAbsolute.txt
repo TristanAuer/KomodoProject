@@ -1,0 +1,5 @@
+C:\Users\Tristan\source\repos\InsuranceKOMODO\KomodoInsuranceProject\KomodoPOCO\bin\Debug\KomodoPOCO.dll
+C:\Users\Tristan\source\repos\InsuranceKOMODO\KomodoInsuranceProject\KomodoPOCO\bin\Debug\KomodoPOCO.pdb
+C:\Users\Tristan\source\repos\InsuranceKOMODO\KomodoInsuranceProject\KomodoPOCO\obj\Debug\KomodoPOCO.csproj.CoreCompileInputs.cache
+C:\Users\Tristan\source\repos\InsuranceKOMODO\KomodoInsuranceProject\KomodoPOCO\obj\Debug\KomodoPOCO.dll
+C:\Users\Tristan\source\repos\InsuranceKOMODO\KomodoInsuranceProject\KomodoPOCO\obj\Debug\KomodoPOCO.pdb
